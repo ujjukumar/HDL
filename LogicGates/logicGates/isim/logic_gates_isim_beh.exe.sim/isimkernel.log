@@ -1,0 +1,29 @@
+Command line:
+   logic_gates_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55679
+
+Mon Nov 04 20:40:40 2019
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5160.1 Meg
+
+ Total Signals          : 3
+ Total Nets             : 9
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 369
+Total Line Count : 7
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5002.82 Meg
+
+Mon Nov 04 20:42:03 2019
+

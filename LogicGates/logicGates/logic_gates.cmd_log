@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Program_ujju/HDL/LogicGates/logicGates/logic_gates.xst" -ofn "E:/Program_ujju/HDL/LogicGates/logicGates/logic_gates.syr" 
